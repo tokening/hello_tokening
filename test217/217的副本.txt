@@ -1,0 +1,4 @@
+initial test.txt
+add some in local
+two add in local 
+add some in remote first
